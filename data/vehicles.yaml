@@ -1,0 +1,7 @@
+train: ./train
+val: ./val
+test: ./test
+
+# Classes
+nc: 8 # number of classes
+names: ['auto', 'bus', 'car', 'lcv', 'motorcycle', 'multiaxle', 'tractor', 'truck']
